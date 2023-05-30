@@ -1,6 +1,6 @@
 ---
-title: "Group Project Data Mining"
-author: "Thirza"
+title: "Project Data Mining"
+author: "Salsa"
 date: '2022-05-24'
 output: html_document
 ---
